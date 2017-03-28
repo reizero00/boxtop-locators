@@ -1,0 +1,3 @@
+[submodule "LiferayCucumberJava"]
+	path = LiferayCucumberJava
+	url = git@github.com:kevin-yen/LiferayCucumberJava.git
